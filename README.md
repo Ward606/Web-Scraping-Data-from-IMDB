@@ -23,7 +23,7 @@ pip install lxml
 ```
  requests library to make HTTP requests
 ```
-pip install reqests
+pip install requests
 ```
 pandas library to see structure the data
 ```
