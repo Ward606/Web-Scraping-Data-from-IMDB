@@ -1,9 +1,6 @@
 # Web-Scraping-Data-from-IMDB
 collecting data from the top 1000 rated movies on IMDB website, and saving it to a csv file
 
-## Motivation
-I was searching for data in a csv format to build a machine learning project, 
-and decided to create my own data 
 
 ### Prerequisites
 you can use any framework, this was writting using pycharm
